@@ -1,9 +1,6 @@
 1:"$Sreact.fragment"
-2:I[47257,["/ayush-portfolioo/_next/static/chunks/42879de7b8087bc9.js"],"ClientPageRoot"]
-3:I[74647,["/ayush-portfolioo/_next/static/chunks/b72448bdec8449f5.js"],"default"]
-6:I[97367,["/ayush-portfolioo/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
-7:"$Sreact.suspense"
-0:{"buildId":"g3z0zEfUq5BhinIyRu_uK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/ayush-portfolioo/_next/static/chunks/b72448bdec8449f5.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
-4:{}
-5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
-8:null
+2:I[71325,["/ayush-portfolioo/_next/static/chunks/96597c43e5ee02d0.js"],"default"]
+3:I[97367,["/ayush-portfolioo/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"buOmqTahrmo6Uid2Lg6_-","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center gap-6","children":[["$","$L2",null,{}],["$","h1",null,{"className":"text-4xl font-bold","children":"Theme Test"}],["$","p",null,{"className":"text-lg opacity-80","children":"Your theme is working perfectly."}]]}],[["$","script","script-0",{"src":"/ayush-portfolioo/_next/static/chunks/96597c43e5ee02d0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
