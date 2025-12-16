@@ -97,20 +97,17 @@ export default function Home() {
             <p>I build software that actually works at scale.</p>
 
             <p>
-              Right now I'm at{' '}
+              Software Developer at{' '}
               <span className="dev-link font-medium text-black dark:text-white">
-                DigiShield
+                DigiShield Technologies
               </span>
-              , building for
+              — delivered production systems for
               <span className="inline-flex items-center align-middle font-mono text-xs md:text-sm bg-stone-200 dark:bg-zinc-800 px-1.5 py-0.5 rounded ml-1.5 mr-1">
-                ISRO
-              </span>
-              and
-              <span className="inline-flex items-center align-middle font-mono text-xs md:text-sm bg-stone-200 dark:bg-zinc-800 px-1.5 py-0.5 rounded ml-1">
-                NCERT
-              </span>
-              . I don’t do “lanes” — one day I scale APIs, next day I ship
-              pixel-perfect mobile apps.
+               ISRO
+              </span>and<span className="inline-flex items-center align-middle font-mono text-xs md:text-sm bg-stone-200 dark:bg-zinc-800 px-1.5 py-0.5 rounded ml-1">NCERT</span>
+              , now building high-impact government and enterprise platforms..
+              {/* I don’t do “lanes” — one day I scale APIs, next day I ship
+              pixel-perfect mobile apps. */}
             </p>
 
             <p>
